@@ -1,0 +1,21 @@
+{
+	"name": "nu-solarized",
+	"version": "0.1.0",
+	"publisher": "tangd",
+	"engines": { "vscode": "*" },
+	"categories": [ "Themes" ],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Nu Solarized Light",
+				"uiTheme": "vs",
+				"path": "./themes/Solarized-light.tmTheme"
+			},
+			{
+				"label": "Nu Solarized Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Solarized-dark.tmTheme"
+			}
+		]
+	}
+}
