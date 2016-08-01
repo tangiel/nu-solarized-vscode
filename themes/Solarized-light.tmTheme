@@ -14,7 +14,7 @@
 				<key>caret</key>
 				<string>#000000</string>
 				<key>foreground</key>
-				<string>#586E75</string>
+				<string>#657B83</string>
 				<key>invisibles</key>
 				<string>#93A1A180</string>
 				<key>lineHighlight</key>
@@ -64,7 +64,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#D33682</string>
+				<string>#CB4B16</string>
 			</dict>
 		</dict>
 		<dict>
@@ -96,10 +96,8 @@
 			<string>storage</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
-				<string>#073642</string>
+				<string>#859900</string>
 			</dict>
 		</dict>
 		<dict>
